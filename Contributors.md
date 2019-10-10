@@ -17158,6 +17158,7 @@ Mário Baltazar
 - [Nate](https://github.com/ACA30)
 - [DanielKlys] (https://github.com/danielklys7) 
 - [Akshita Sah](https://github.com/akshi0409)
+- [Rannie Pavillon](https://github.com/RanniePavillon)
 - [Alex Zhang](https://github.com/alex6126)
 - [Christopher Heaney](https://github.com/d4rkshell)
 - [Renan Eccel](https://github.com/renan-eccel)
