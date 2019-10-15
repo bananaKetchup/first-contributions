@@ -13424,6 +13424,7 @@ Stephan Sharpe
 - [Adithyan KV](https://github.com/Adithyan-KV)
 - [kiran-mk](https://github.com/kiranmk3331)
 - [Mehmet Baran](https://github.com/mbrn)
+- [Rannie Pavillion](https://github.com/RanniePavillion)
 - [Jason Kobuchi](https://github.com/kabocha23)
 - [Lisa Leniashina](https://github.com/lisalen)
 - [Chris Palomares](https://github.com/eviljorge)
