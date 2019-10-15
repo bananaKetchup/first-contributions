@@ -13625,7 +13625,7 @@ Stephan Sharpe
 - [Thales Junior](https://github.com/ThalesGomesJr)
 - [Tegar Jagat Geni Arya Perkasa](https://github.com/tegarjgap)
 - [Jose Freitas](http://github.com/jaugustocesar)
-- [Adam Csillag] (https://github.com/adamcsillag)
+- [Adam Csillag](https://github.com/adamcsillag)
 - [Pablo França](https://github.com/magusTM)
 - [Larissa França](https://github.com/EmeraldL)
 - [Rachel Lima](https://github.com/rachellimaa)
@@ -15967,7 +15967,7 @@ Stephan Sharpe
 - [Seiichi Ariga](https://github.com/s-ariga)
 - [Seung-Hyun-Jeon](https://github.com/robinstart)
 - [Yang Gyeong-mo](https://github.com/yangkyeongmo/)
--   [Jake Goodwin](https://github.com/JakeGoodwin)
+- [Jake Goodwin](https://github.com/JakeGoodwin)
 - [Gauhar Ayub Khan](https://github.com/gauharayub)
 - [Misha Krul](https://github.com/mishakrul)
 - [dorf06](https://github.com/dorf06)
@@ -16026,7 +16026,6 @@ Stephan Sharpe
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joss Sparks](https://github.com/RemakingEden)
 - [Joshua Cammock](https://github.com/JCammock)
-
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
@@ -16240,7 +16239,7 @@ Stephan Sharpe
 - [Masahiro Okamoto](https://github.com/okamotchan)
 - [Robiquet](https://github.com/Robiquet)
 - [Rishabh Jain](https://github.com/jainrish)
--   Kritika b
+- Kritika b
 - [Teresa Ingram](https://github.com/malteserteresa)
 - [Ricardo Mondini](https://github.com/mondini)
 - [codesquadkiki](https://github.com/codesquadkiki/)
