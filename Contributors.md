@@ -17093,7 +17093,7 @@ Mário Baltazar
 - [Arupam Kumar Saha](https://github.com/arupam)
 - [Harshaan Nihal](https://github.com/harshaannihal)
 - [Kyle Heron](https://github.com/KyleHeron)
-- - [ehmsu] (https://github.com/ehmsu)
+- [ehmsu] (https://github.com/ehmsu)
 - [bhatiaAnanya](https://github.com/bhatiaAnanya)
 - [sureshpathipati](https://github.com/sureshpathipati)
 - [Andrew Berry](https://github.com/andpberr)
